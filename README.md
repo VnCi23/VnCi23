@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vince Christian</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">Aspiring frontend developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincechristian23&label=Profile%20views&color=0e75b6&style=flat" alt="vincechristian23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincechristian23" alt="vincechristian23" /></a> </p>
 
-- 🌱 I’m currently learning **reactJs**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **web development**
 
 - 👨‍💻 All of my projects are available at [https://vincechristian23.github.io/simpleweb/?fbclid=IwAR1fhReC-qyN40lawhd3Zd5WDW0wk2zs4nI3POsrjbVVoHHeDa1eR7yfjEA](https://vincechristian23.github.io/simpleweb/?fbclid=IwAR1fhReC-qyN40lawhd3Zd5WDW0wk2zs4nI3POsrjbVVoHHeDa1eR7yfjEA)
 
-- 💬 Ask me about **Frameworks,etc**
+- 💬 Ask me about **Web Development,etc**
 
 - 📫 How to reach me **vincegaurino@gmail.com**
 
