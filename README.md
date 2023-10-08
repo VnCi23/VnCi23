@@ -9,10 +9,6 @@
 
 - 👯 I’m looking to collaborate on **web development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vincechristian23](https://github.com/vincechristian23)
-
-- 💬 Ask me about **WebDevelopment**
-
 - 📫 How to reach me **VinceChristianGaurino@outlook.ph**
 
 <h3 align="left">Connect with me:</h3>
