@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincechristian23&label=Profile%20views&color=0e75b6&style=flat" alt="vincechristian23" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👯 I’m looking to collaborate on **web development**
 
