@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👯 I’m looking to collaborate on **web development**
+- 👯 I’m looking to collaborate on **WEB DEVELOPMENT**
 
 - 📫 How to reach me **VinceChristianGaurino@outlook.ph**
 
