@@ -3,7 +3,11 @@
 
 ![MasterHead](https://bird.in/images/media.jpg)
 
+
+<p>I'm an aspiring developer from the Philippines passionate about creating beautiful and functional websites. I can developed responsive web pages, animations, and dynamic content. I prioritize user-friendly design and continuously learn techniques to create engaging websites. I aim to become a successful and in-demand web developer by consistently improving my skills and staying up-to-date with industry trends. <p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vincechristian23&label=Profile%20views&color=blue&style=flat" alt="vincechristian23" /> </p>
+
 
 <p align="center"> 👨‍💻 I’m currently learning **MERN STACK**</p>
 <p align="center"> 👥 I’m looking to collaborate on **WEB DEVELOPMENT**</p>
