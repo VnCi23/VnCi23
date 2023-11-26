@@ -9,9 +9,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vincechristian23&label=Profile%20views&color=blue&style=flat" alt="vincechristian23" /> </p>
 
 
-<p align="center"> 👨‍💻 I’m currently learning **MERN STACK**</p>
-<p align="center"> 👥 I’m looking to collaborate on **WEB DEVELOPMENT**</p>
-<p align="center"> 📩 Sent me a message **VinceChristianGaurino@outlook.ph**</p>
+<p> 👨‍💻 I’m currently learning **MERN STACK**</p>
+<p> 👥 I’m looking to collaborate on **WEB DEVELOPMENT**</p>
+<p> 📩 Sent me a message **VinceChristianGaurino@outlook.ph**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
