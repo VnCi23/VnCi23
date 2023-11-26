@@ -2,8 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vincechristian23&label=Profile%20views&color=blue&style=flat" alt="vincechristian23" /> </p>
 <h3 align="center">A passionate developer from Philippines</h3>
 
-![MasterHead](![image](https://github.com/VnCi23/VnCi23/assets/119119995/1919b444-91cd-4173-bf53-5be850d546b3)
-))
+![MasterHead](![image](https://devops.com/wp-content/uploads/2020/06/canstockphoto15223412.jpg))
 
 <p>I’m a Philippine-based aspiring developer who creates beautiful and functional websites using MERN stack and other web development techniques, and who strives to improve my skills and keep up with industry trends.🙂<p>
 
