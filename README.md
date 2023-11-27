@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vincechristian23&label=Profile%20views&color=blue&style=flat" alt="vincechristian23" /> </p>
 <h3 align="center">A passionate developer from Philippines</h3>
 
-<img align="center" src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true">
+<p align="center"><img src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true"></p>
 
 <p>I’m a Philippine-based aspiring developer who creates beautiful and functional websites using MERN stack and other web development techniques, and who strives to improve my skills and keep up with industry trends.🙂<p>
 
