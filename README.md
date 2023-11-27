@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Vince Christian</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vincechristian23&label=Profile%20views&color=blue&style=flat" alt="vincechristian23" /> </p>
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" width="100%">
 <h3 align="center">A passionate developer from Philippines</h3>
 
 [![freeCodeCamp Social Banner](https://www.transposesolutions.com/img/Carousel-1.jpg)](https://vnci23.github.io/simpleweb/)
