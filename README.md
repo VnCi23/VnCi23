@@ -6,7 +6,7 @@
 
 <p>I’m a Philippine-based aspiring developer who creates beautiful and functional websites using MERN stack and other web development techniques, and who strives to improve my skills and keep up with industry trends.🙂<p>
 
-<p>If you want to contact me, you can email me at **VinceChristianGaurino@outlook**. 👨‍💻👥📩<p>
+<p>If you want to contact me, you can email me at VinceChristianGaurino@outlook. 👨‍💻👥📩<p>
 
 <h3 align="center">Other account:</h3>
 <p align="center">
