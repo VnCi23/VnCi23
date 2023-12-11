@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Vince Christian Gaurino</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vincechristian23&label=Profile%20views&color=black&style=flat" alt="vincechristian23" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vincechristian23&label=Profile%20views&color=blue&style=flat" alt="vincechristian23" /> </p>
 <h3 align="center">A passionate developer from Philippines</h3>
 
 <p align="center"><img src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" width=70%></p>
