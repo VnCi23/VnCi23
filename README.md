@@ -6,7 +6,7 @@
 
 <h3 align="center">A Passionate Developer from Philippines</h3>
 <div align="center"> 
-  <a href="VinceChristianGaurino@outlook">
+    <a href="mailto:VinceChristianGaurino@outlook">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/vnci23/" target="_blank">
