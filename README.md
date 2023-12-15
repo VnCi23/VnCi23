@@ -18,8 +18,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git," />
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,firebase,mongodb,java" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,figma,react,nodejs,express,mongodb,git,github,vscode" />
 </div>
 
 <h3 align="center">Support me:</h3>
