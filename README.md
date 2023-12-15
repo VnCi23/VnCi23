@@ -19,7 +19,7 @@
 
 <p align="center"><img src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" width=50%></p>
 
-<p>I’m a Philippine-based aspiring developer who creates beautiful and functional websites using MERN stack and other web development techniques, and who strives to improve my skills and keep up with industry trends.🙂<p>
+<h5>I’m a Philippine-based aspiring developer who creates beautiful and functional websites using MERN stack and other web development techniques, and who strives to improve my skills and keep up with industry trends.🙂<h5/>
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
