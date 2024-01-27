@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vincechristian23&label=Profile%20views&color=blue&style=flat" alt="vnci23" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=9000&lines=A+Passionate+Developer+From+Philippines!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=9000&lines=A+Aspiring+Developer+From+Philippines!;" />
 </h1>
 
 <div align="center"> 
@@ -26,7 +26,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,figma,react,nodejs,express,mongodb,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,figma,nodejs,express,mongodb,git,github,vscode" />
 </div>
 
 
