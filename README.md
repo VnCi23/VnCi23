@@ -24,9 +24,9 @@
 
 <h5>I’m a Philippine-based aspiring developer who creates beautiful and functional websites using MERN stack and other web development techniques, and who strives to improve my skills and keep up with industry trends.🙂<h5/>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Main Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,figma,nodejs,express,mongodb,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,tailwind,figma" />
 </div>
 
 <h3 align="center">Stats:</h3>
