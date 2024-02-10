@@ -20,7 +20,7 @@
   </a>
 </div>
 
-<p align="center"><img src="https://media1.tenor.com/m/hVmM21uY9hEAAAAC/homer-simpson.gif" width=50%></p>
+<p align="center"><img src="https://media1.tenor.com/m/hVmM21uY9hEAAAAC/homer-simpson.gif?raw=true" width=50%></p>
 
 <h5>I’m a Philippine-based aspiring developer who creates beautiful and functional websites using MERN stack and other web development techniques, and who strives to improve my skills and keep up with industry trends.🙂<h5/>
 
