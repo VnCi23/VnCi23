@@ -34,6 +34,5 @@
     <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=vnci23&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=50" alt="readme stats" />
     <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vnci23&count_private=true&theme=react&border_radius=50" alt="streak stats"/>
     </br>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnci23&show_icons=true&theme=react&rank_icon=github&border_radius=50" />
 </div>
 
