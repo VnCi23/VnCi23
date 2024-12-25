@@ -26,7 +26,7 @@
 
 <h3 align="center">Tech Stack:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,tailwind,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,tailwind,figma,electron" />
 </div>
 
 <h3 align="center">Stats:</h3>
