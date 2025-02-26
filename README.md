@@ -22,7 +22,6 @@
 
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-<h5>I am a passionate web developer from the Philippines, dedicated to creating user-friendly websites. While my primary focus is front-end development, I also have experience with full-stack development using the MERN stack. Currently, I am pursuing a Bachelor of Science in Information Systems. I'm learning about new technologies and best practices to enhance my skills and enjoy collaborating to achieve common goals.<h5/>
 
 <h3 align="center">Tech Stack:</h3>
 <div align="center">
